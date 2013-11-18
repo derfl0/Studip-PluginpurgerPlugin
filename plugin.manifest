@@ -1,0 +1,5 @@
+pluginname=Plugin Purger
+pluginclassname=PluginpurgerPlugin
+origin=intelec
+version=0.1a
+studipMinVersion=2.3
